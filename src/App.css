@@ -32,18 +32,3 @@ body {
   display: flex;
   justify-content: center;
 }
-
-.btn {
-  color: #000f;
-  font-size: 1.25rem;
-  background: transparent;
-  border-color: transparent;
-  margin: 0 0.5rem;
-  transition: ease;
-  cursor: pointer;
-}
-
-.btn:hover {
-  background: #000;
-  color: #fff;
-}
