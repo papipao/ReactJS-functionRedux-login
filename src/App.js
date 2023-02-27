@@ -1,10 +1,14 @@
 import './App.css';
-import Counter from './components/function/Counter';
+import Theme from './components/Theme';
+import Login from './components/Login';
+import Profile from './components/Profile';
 
 function App() {
   return (
     <div className='container'>
-      <Counter />
+      <Profile />
+      <Login />
+      <Theme />
     </div>
   );
 }
